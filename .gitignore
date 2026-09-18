@@ -2,3 +2,7 @@
 .env
 *.pem
 *.key
+
+# Local environment / scratch output
+.venv/
+logs/
